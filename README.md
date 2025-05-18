@@ -58,7 +58,7 @@ Ports like `8787`, `36588`, `53204`, etc., found through full port scans.
 
 
 ### 👤 Privilege Escalation
-- Created user `vipin` with root permissions
+- Created user `kamlesh` with root permissions
 - Extracted and cracked password hash using John the Ripper
 
 ### 🔧 Remediation Steps
